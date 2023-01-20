@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "N:\\RiderProjects\\HackerRank\\Delete_Empty_JSON\\Delete_Empty_JSON.csproj": {}
+  },
+  "projects": {
+    "N:\\RiderProjects\\HackerRank\\Delete_Empty_JSON\\Delete_Empty_JSON.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "N:\\RiderProjects\\HackerRank\\Delete_Empty_JSON\\Delete_Empty_JSON.csproj",
+        "projectName": "Delete_Empty_JSON",
+        "projectPath": "N:\\RiderProjects\\HackerRank\\Delete_Empty_JSON\\Delete_Empty_JSON.csproj",
+        "packagesPath": "C:\\Users\\Dijital&Kafa\\.nuget\\packages\\",
+        "outputPath": "N:\\RiderProjects\\HackerRank\\Delete_Empty_JSON\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dijital&Kafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WinForms.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "I:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R3 2022\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.100-preview.7.22377.5\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
